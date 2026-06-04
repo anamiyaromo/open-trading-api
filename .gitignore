@@ -156,6 +156,8 @@ yarn-error.log*
 KIS/
 .master/
 .kis_token*.json
+samsung_auto_trader/credentials.local.json
+samsung_auto_trader/token_cache.json
 
 # ===== Lean workspace =====
 .lean-workspace/
